@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§lINTERACTABLE SIGNS",
+    "description": "Be able to interact with signs & items frame!",
+    "uuid": "ccb7f96e-f608-45a6-a17a-ab733cb7b1a6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      13,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "§lINTERACTABLE SIGNS",
+      "type": "data",
+      "uuid": "722d23cb-e742-42d3-a71d-a95f66e83fd0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

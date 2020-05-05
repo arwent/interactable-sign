@@ -108,3 +108,8 @@ tmp/
 temp/
 
 # End of https://www.gitignore.io/api/node
+
+# Minecraft & IDEA ignore
+.idea
+package-lock.json
+out/
